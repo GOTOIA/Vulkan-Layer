@@ -1,0 +1,6 @@
+LIBRARY VkLayer_vulkan_layer_ProgramExemple 
+EXPORTS 
+vkGetInstanceProcAddr 
+vkGetDeviceProcAddr 
+vkEnumerateInstanceLayerProperties 
+vkEnumerateInstanceExtensionProperties 
